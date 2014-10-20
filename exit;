@@ -1,0 +1,293 @@
+[33mcommit 21b3c83415dc908c736f40ed8e4b06f88153bf88[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Thu Oct 16 01:31:35 2014 +0400
+
+    Updated translations
+
+[33mcommit 4b7b513360f9f25de9f040ae8bef51a04f074902[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Thu Oct 16 01:15:58 2014 +0400
+
+    Added username to mobile user modal
+
+[33mcommit 2f8700a6c308a7a50db81cf4446457023d0c96be[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Thu Oct 16 00:46:17 2014 +0400
+
+    bugfixes
+
+[33mcommit 5d0de504a9d36fd6d9cb5a96f601215a316f55d3[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 15 22:45:15 2014 +0400
+
+    Update README.md
+
+[33mcommit 6d39a4ae614a904365a224e82516c9203a8afc09[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 15 22:26:01 2014 +0400
+
+    Fixed safari exception
+
+[33mcommit 37964566fd3df5be67b2717047d7a6254df0aeb6[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 15 22:16:47 2014 +0400
+
+    Fixed updateOn
+
+[33mcommit ba6739ce9a4a7bcea9ba617b9da15aad578a2ac5[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 15 22:05:26 2014 +0400
+
+    Disabled new message animation, fixed usernames
+
+[33mcommit 7dcc2df4d4968a657b7e3f69cc23977d8145060f[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 15 21:19:07 2014 +0400
+
+    Updated changelog
+
+[33mcommit 17a270992f984e3b2565b4563e9e3e28daa18508[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 15 19:20:50 2014 +0400
+
+    Hide select tick boxes
+
+[33mcommit fb2a80fc1434509488f2f00c3388176a699aa5f7[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 15 17:05:24 2014 +0400
+
+    Handling exceptions in http.post (for SSL errors)
+
+[33mcommit fba9bd3e5f5f68ba4ad4701d72cddfed2ad56d1e[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 15 16:58:54 2014 +0400
+
+    fixed audio player icons
+
+[33mcommit cbbe584e3cdddf6586acca31372e7b5409efab6e[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 15 16:00:12 2014 +0400
+
+    Actualize translations
+
+[33mcommit 88d14120a87385ba93e7ef5cd12de1f24ab9596d[m
+Merge: 98a271d a5fd419
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 15 15:51:22 2014 +0400
+
+    Merge branch 'pr/523'
+
+[33mcommit a5fd4198630b6abca5dffc9f1126db5ebee33397[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 15 15:50:15 2014 +0400
+
+    Added no-capture prefix for youtube
+
+[33mcommit 98a271d5278a747e7d5cda448f8db9cc609a3787[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 15 15:41:32 2014 +0400
+
+    Bump to 0.3.2
+
+[33mcommit 279104f2d1cc391c307c2f1b53851286426020ae[m
+Merge: ae1029b f98f719
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 15 15:38:07 2014 +0400
+
+    Merge branch 'layer-18-usernames'
+
+[33mcommit f98f7193a3007e1af56954e8989daaf9e0760690[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 15 15:37:28 2014 +0400
+
+    Added default recent emoticons
+
+[33mcommit 671022fb9b7f1af3f2dee0176f76461f33387ebc[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 15 15:37:04 2014 +0400
+
+    Added usernames search, improved username settings
+
+[33mcommit bc5a03c99a05bda59596300cc791bcc9c33084db[m
+Author: Madh93 <michelangelo93@gmail.com>
+Date:   Tue Oct 14 21:32:47 2014 +0100
+
+    VideoID is equal to last youtubeMatches
+
+[33mcommit 59479ea406cf39d13a13843cec719e969298f161[m
+Author: Madh93 <michelangelo93@gmail.com>
+Date:   Tue Oct 14 21:31:09 2014 +0100
+
+    Added /?#/ and /#/
+
+[33mcommit bdbc653cc7b1622f71237ca48c673322058a8a69[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Tue Oct 14 22:17:54 2014 +0400
+
+    Fixed langpack
+
+[33mcommit 52e639cfa48f041834b13b93b8fb2ea3367db4e5[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Tue Oct 14 22:12:49 2014 +0400
+
+    Usernames draft
+
+[33mcommit ae1029b64cdbd8755b2b3c3c6e9ae60221c4b7d3[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Thu Oct 9 12:24:16 2014 +0400
+
+    Fixed mtproto typo
+
+[33mcommit bd508e5937050a61ef3cb913b5f8f318fba9805b[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Tue Oct 7 13:52:27 2014 +0400
+
+    Added disabled local storage workaround
+
+[33mcommit ec5bffbf6bececa90238426a964733975dcfe7f0[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Mon Oct 6 17:52:55 2014 +0400
+
+    Minor bugfixes
+
+[33mcommit 8269a597547a3fd8e91d770dd9367ccbbb073e39[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Mon Oct 6 17:52:40 2014 +0400
+
+    Supported GIF download
+
+[33mcommit 6112c49cac4040487ddb557825b33765fdc9e838[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Fri Oct 3 10:34:13 2014 +0400
+
+    Improved mobile intro
+    
+    Synchonized langpacks
+
+[33mcommit 749c45b9af1f2d575a61f4fda1f4076ab4f1a99e[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Thu Oct 2 19:14:45 2014 +0400
+
+    Improved search esc behaviour
+
+[33mcommit e6698cb97a5ebb2c00af6d5a2163d37cd37da5fc[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Thu Oct 2 17:16:24 2014 +0400
+
+    Bump to 0.3.1 + Changelog
+
+[33mcommit 637108d2d382c4d882ce0700b4d7b3bb96040ebf[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Thu Oct 2 16:53:03 2014 +0400
+
+    Improved bad browser page
+    
+    Fixed some l10n bugs
+    Fixed polyfill in production
+
+[33mcommit 5f1118039d1e6d25f6571a6a77f734ad86b1564b[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Thu Oct 2 15:59:06 2014 +0400
+
+    Fixed favicon replacement
+    
+    Closes #500
+
+[33mcommit a448487ac4a8aa6d520b10c4868694dd2c8c18bf[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Thu Oct 2 15:33:00 2014 +0400
+
+    Update version
+
+[33mcommit 6baf77da5ab8103040ea83ad49d54d85a3f95401[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Thu Oct 2 14:43:56 2014 +0400
+
+    Added language for mobile settings
+
+[33mcommit 637ff5bbc2635cd70af57dc39837b050a2b364a2[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Thu Oct 2 13:58:41 2014 +0400
+
+    Fixed tg-range slider
+
+[33mcommit cb80dea568b601bede8fe34b26ff215a3d841944[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Thu Oct 2 13:12:16 2014 +0400
+
+    Improved lang footer
+
+[33mcommit e98456e65ad81e5d6d4aaeceba2181080b967451[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Thu Oct 2 13:12:09 2014 +0400
+
+    Improved android home icon
+
+[33mcommit a8314c381f7cf82ca6e84eed6bdb5b4f2229b26a[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Thu Oct 2 13:11:46 2014 +0400
+
+    Upgraded angularJS to v1.3.0-rc.4
+
+[33mcommit 9bceb516c28e9f06721c6406961c93d959c6ec14[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 1 21:36:11 2014 +0400
+
+    Improved IE compatibility
+    
+    Added bad browser page
+    Organized scripts
+
+[33mcommit 9dd1baca93656b63e8212e0c346fe84a3ff203fe[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 1 15:56:44 2014 +0400
+
+    Fixed gif in packed mode
+    
+    Closes #495
+
+[33mcommit 2db6efcba08fba49192b083af10176cd48d1c6b1[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 1 15:16:37 2014 +0400
+
+    Synchronize langpacks with Transifex
+
+[33mcommit c10adc8d328e72d835cb9127fe243a0765baa9c0[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 1 15:13:50 2014 +0400
+
+    Saving Chrome app window position
+
+[33mcommit f6f553c3d309fc730537bc2188d29d1f4f418d99[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 1 14:58:38 2014 +0400
+
+    Improved index meta tags
+
+[33mcommit f1149fffffb172e8ba4c9e1e95151a24237dff72[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Wed Oct 1 13:58:24 2014 +0400
+
+    Ctrl+Tab/Shift+Ctrl+Tab switching
+    
+    Supported TDesktop-like conversations switching for packed mode
+    Closes #496
+
+[33mcommit ba13e295734681f4a76881d4f8107e79f7e5388d[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Tue Sep 30 19:30:50 2014 +0400
+
+    Fixed mobile timestamps
+
+[33mcommit c07b22a4b427557323c16b1e27d0d22245e2c702[m
+Author: Igor Zhukov <igor.beatle@gmail.com>
+Date:   Tue Sep 30 19:27:21 2014 +0400
+
+    Audio player fixes
+    
+    Reverted IM not loaded label
+    Fixed mobile edit action buttons
+    Disabled i18n for mobile
+
+[33mcommit 75d421202c92571c1f2439f6d760b9e494be6124[m
+Author: Igor Zhu
